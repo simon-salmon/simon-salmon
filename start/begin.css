@@ -1,0 +1,15 @@
+body {
+    width: 600px;
+    padding: 50px;
+}
+h1, h2, h3 {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+      color: lightpink;
+    font-size: 50px;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    color: purple;
+    border-top: 1px solid lightgray;
+}
