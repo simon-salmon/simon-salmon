@@ -1,10 +1,6 @@
 ## Hi there 👋
 
 <!--
-**simon-salmon/simon-salmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +10,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm curretly working on a self sufficient website that i will code all myself, including all of the html, CSS, Javascript and etc
+
+I'm currently learning HTML, CSS, and Python / Javascript
+
+Reach me through my email or any of my other socials
+
+He/Him
+
+fun fact i am sleep deprived
