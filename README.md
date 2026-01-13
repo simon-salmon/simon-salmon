@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my page
 
 <!--
 - 🔭 I’m currently working on ...
