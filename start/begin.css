@@ -1,6 +1,7 @@
 body {
-    width: 600px;
+    width: auto;
     padding: 50px;
+    text-align: center;
 }
 h1, h2, h3 {
     font-family: 'Times New Roman', Times, serif;
@@ -12,4 +13,12 @@ p {
     font-family: 'Times New Roman', Times, serif;
     color: purple;
     border-top: 1px solid lightgray;
+}
+
+a:hover {
+    color: purple;
+}
+
+a {
+    padding: 0px;
 }
